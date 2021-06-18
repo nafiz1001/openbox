@@ -1,0 +1,4 @@
+LANG=en_CA.UTF8
+
+PATH=$HOME/.local/bin:$PATH
+export PATH
